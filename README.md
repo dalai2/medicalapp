@@ -10,9 +10,9 @@ The assessment is divided into two main sections:
 
 ## Requirements
 
-* Node.js (recommended version: 20.16.0)
-* npm (or yarn)
-* Docker and Docker Compose (for deployment)
+* Node.js
+* npm
+* Docker and Docker Compose
 * MongoDB
 
 ## Installation Instructions
